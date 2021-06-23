@@ -1,0 +1,13 @@
+C:\workspaceC-Sharp\c-sharp-design-patterns\Template\Template\obj\Debug\netcoreapp3.1\Template.csproj.AssemblyReference.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Template\Template\obj\Debug\netcoreapp3.1\Template.AssemblyInfoInputs.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Template\Template\obj\Debug\netcoreapp3.1\Template.AssemblyInfo.cs
+C:\workspaceC-Sharp\c-sharp-design-patterns\Template\Template\obj\Debug\netcoreapp3.1\Template.csproj.CoreCompileInputs.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Template\Template\bin\Debug\netcoreapp3.1\Template.exe
+C:\workspaceC-Sharp\c-sharp-design-patterns\Template\Template\bin\Debug\netcoreapp3.1\Template.deps.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Template\Template\bin\Debug\netcoreapp3.1\Template.runtimeconfig.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Template\Template\bin\Debug\netcoreapp3.1\Template.runtimeconfig.dev.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Template\Template\bin\Debug\netcoreapp3.1\Template.dll
+C:\workspaceC-Sharp\c-sharp-design-patterns\Template\Template\bin\Debug\netcoreapp3.1\Template.pdb
+C:\workspaceC-Sharp\c-sharp-design-patterns\Template\Template\obj\Debug\netcoreapp3.1\Template.dll
+C:\workspaceC-Sharp\c-sharp-design-patterns\Template\Template\obj\Debug\netcoreapp3.1\Template.pdb
+C:\workspaceC-Sharp\c-sharp-design-patterns\Template\Template\obj\Debug\netcoreapp3.1\Template.genruntimeconfig.cache
