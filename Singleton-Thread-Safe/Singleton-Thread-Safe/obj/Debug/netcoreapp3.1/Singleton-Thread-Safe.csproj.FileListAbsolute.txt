@@ -1,0 +1,13 @@
+C:\workspaceC-Sharp\c-sharp-design-patterns\Singleton-Thread-Safe\Singleton-Thread-Safe\bin\Debug\netcoreapp3.1\Singleton-Thread-Safe.exe
+C:\workspaceC-Sharp\c-sharp-design-patterns\Singleton-Thread-Safe\Singleton-Thread-Safe\bin\Debug\netcoreapp3.1\Singleton-Thread-Safe.deps.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Singleton-Thread-Safe\Singleton-Thread-Safe\bin\Debug\netcoreapp3.1\Singleton-Thread-Safe.runtimeconfig.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Singleton-Thread-Safe\Singleton-Thread-Safe\bin\Debug\netcoreapp3.1\Singleton-Thread-Safe.runtimeconfig.dev.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Singleton-Thread-Safe\Singleton-Thread-Safe\bin\Debug\netcoreapp3.1\Singleton-Thread-Safe.dll
+C:\workspaceC-Sharp\c-sharp-design-patterns\Singleton-Thread-Safe\Singleton-Thread-Safe\bin\Debug\netcoreapp3.1\Singleton-Thread-Safe.pdb
+C:\workspaceC-Sharp\c-sharp-design-patterns\Singleton-Thread-Safe\Singleton-Thread-Safe\obj\Debug\netcoreapp3.1\Singleton-Thread-Safe.csproj.AssemblyReference.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Singleton-Thread-Safe\Singleton-Thread-Safe\obj\Debug\netcoreapp3.1\Singleton-Thread-Safe.AssemblyInfoInputs.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Singleton-Thread-Safe\Singleton-Thread-Safe\obj\Debug\netcoreapp3.1\Singleton-Thread-Safe.AssemblyInfo.cs
+C:\workspaceC-Sharp\c-sharp-design-patterns\Singleton-Thread-Safe\Singleton-Thread-Safe\obj\Debug\netcoreapp3.1\Singleton-Thread-Safe.csproj.CoreCompileInputs.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Singleton-Thread-Safe\Singleton-Thread-Safe\obj\Debug\netcoreapp3.1\Singleton-Thread-Safe.dll
+C:\workspaceC-Sharp\c-sharp-design-patterns\Singleton-Thread-Safe\Singleton-Thread-Safe\obj\Debug\netcoreapp3.1\Singleton-Thread-Safe.pdb
+C:\workspaceC-Sharp\c-sharp-design-patterns\Singleton-Thread-Safe\Singleton-Thread-Safe\obj\Debug\netcoreapp3.1\Singleton-Thread-Safe.genruntimeconfig.cache
