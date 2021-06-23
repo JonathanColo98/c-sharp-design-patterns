@@ -1,0 +1,13 @@
+C:\workspaceC-Sharp\c-sharp-design-patterns\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.exe
+C:\workspaceC-Sharp\c-sharp-design-patterns\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.deps.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.dev.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.dll
+C:\workspaceC-Sharp\c-sharp-design-patterns\Iterator\Iterator\bin\Debug\netcoreapp3.1\Iterator.pdb
+C:\workspaceC-Sharp\c-sharp-design-patterns\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.csproj.AssemblyReference.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfoInputs.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfo.cs
+C:\workspaceC-Sharp\c-sharp-design-patterns\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.csproj.CoreCompileInputs.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.dll
+C:\workspaceC-Sharp\c-sharp-design-patterns\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.pdb
+C:\workspaceC-Sharp\c-sharp-design-patterns\Iterator\Iterator\obj\Debug\netcoreapp3.1\Iterator.genruntimeconfig.cache
