@@ -1,0 +1,13 @@
+C:\workspaceC-Sharp\c-sharp-design-patterns\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\workspaceC-Sharp\c-sharp-design-patterns\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\workspaceC-Sharp\c-sharp-design-patterns\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\workspaceC-Sharp\c-sharp-design-patterns\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.AssemblyReference.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\workspaceC-Sharp\c-sharp-design-patterns\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\workspaceC-Sharp\c-sharp-design-patterns\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\workspaceC-Sharp\c-sharp-design-patterns\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
