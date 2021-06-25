@@ -1,0 +1,13 @@
+C:\workspaceC-Sharp\c-sharp-design-patterns\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+C:\workspaceC-Sharp\c-sharp-design-patterns\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+C:\workspaceC-Sharp\c-sharp-design-patterns\Adapter\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+C:\workspaceC-Sharp\c-sharp-design-patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.AssemblyReference.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+C:\workspaceC-Sharp\c-sharp-design-patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+C:\workspaceC-Sharp\c-sharp-design-patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+C:\workspaceC-Sharp\c-sharp-design-patterns\Adapter\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache
