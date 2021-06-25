@@ -1,0 +1,13 @@
+C:\workspaceC-Sharp\c-sharp-design-patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.exe
+C:\workspaceC-Sharp\c-sharp-design-patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.deps.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.dev.json
+C:\workspaceC-Sharp\c-sharp-design-patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.dll
+C:\workspaceC-Sharp\c-sharp-design-patterns\Factory\Factory\bin\Debug\netcoreapp3.1\Factory.pdb
+C:\workspaceC-Sharp\c-sharp-design-patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.AssemblyReference.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfoInputs.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfo.cs
+C:\workspaceC-Sharp\c-sharp-design-patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.CoreCompileInputs.cache
+C:\workspaceC-Sharp\c-sharp-design-patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.dll
+C:\workspaceC-Sharp\c-sharp-design-patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.pdb
+C:\workspaceC-Sharp\c-sharp-design-patterns\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.genruntimeconfig.cache
