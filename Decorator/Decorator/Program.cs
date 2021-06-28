@@ -3,12 +3,12 @@
 namespace Decorator
 {
 
-    public abstract class Component
+    public abstract class Component<T>
     {
-        public abstract string Operation();
+        public abstract T Operation();
     }
 
-    public class ConcreteComponent : Component
+    public class ConcreteComponent : Component<string>
     {
         public override string Operation()
         {
@@ -16,16 +16,16 @@ namespace Decorator
         }
     }
 
-    public abstract class Decorator : Component
+    public abstract class Decorator : Component<string>
     {
-        protected Component _component;
+        protected Component<string> _component;
 
-        public Decorator(Component component)
+        public Decorator(Component<string> component)
         {
             this._component = component;
         }
 
-        public void SetComponent(Component component)
+        public void SetComponent(Component<string> component)
         {
             this._component = component;
         }
@@ -46,13 +46,8 @@ namespace Decorator
 
     class ConcreteDecoratorA : Decorator
     {
-        public ConcreteDecoratorA(Component comp) : base(comp)
-        {
-        }
+        public ConcreteDecoratorA(Component<string> comp) : base(comp) {}
 
-        // Decorators may call parent implementation of the operation, instead
-        // of calling the wrapped object directly. This approach simplifies
-        // extension of decorator classes.
         public override string Operation()
         {
             return $"ConcreteDecoratorA({base.Operation()})";
@@ -61,9 +56,7 @@ namespace Decorator
 
     class ConcreteDecoratorB : Decorator
     {
-        public ConcreteDecoratorB(Component comp) : base(comp)
-        {
-        }
+        public ConcreteDecoratorB(Component<string> comp) : base(comp) {}
 
         public override string Operation()
         {
@@ -74,10 +67,8 @@ namespace Decorator
 
     public class Client
     {
-        // The client code works with all objects using the Component interface.
-        // This way it can stay independent of the concrete classes of
-        // components it works with.
-        public void ClientCode(Component component)
+     
+        public void ClientCode(Component<string> component)
         {
             Console.WriteLine("RESULT: " + component.Operation());
         }
@@ -94,10 +85,6 @@ namespace Decorator
             client.ClientCode(simple);
             Console.WriteLine();
 
-            // ...as well as decorated ones.
-            //
-            // Note how decorators can wrap not only simple components but the
-            // other decorators as well.
             ConcreteDecoratorA decorator1 = new ConcreteDecoratorA(simple);
             ConcreteDecoratorB decorator2 = new ConcreteDecoratorB(decorator1);
             Console.WriteLine("Client: Now I've got a decorated component:");
