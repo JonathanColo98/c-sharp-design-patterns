@@ -1,0 +1,13 @@
+D:\workspace-c#\c-sharp-design-patterns\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+D:\workspace-c#\c-sharp-design-patterns\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+D:\workspace-c#\c-sharp-design-patterns\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+D:\workspace-c#\c-sharp-design-patterns\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+D:\workspace-c#\c-sharp-design-patterns\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+D:\workspace-c#\c-sharp-design-patterns\Facade\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+D:\workspace-c#\c-sharp-design-patterns\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.AssemblyReference.cache
+D:\workspace-c#\c-sharp-design-patterns\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+D:\workspace-c#\c-sharp-design-patterns\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+D:\workspace-c#\c-sharp-design-patterns\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
+D:\workspace-c#\c-sharp-design-patterns\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+D:\workspace-c#\c-sharp-design-patterns\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
+D:\workspace-c#\c-sharp-design-patterns\Facade\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache
