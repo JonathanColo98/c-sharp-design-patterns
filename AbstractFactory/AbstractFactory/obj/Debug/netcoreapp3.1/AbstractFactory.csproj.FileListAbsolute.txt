@@ -1,0 +1,13 @@
+D:\workspace-c#\c-sharp-design-patterns\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+D:\workspace-c#\c-sharp-design-patterns\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+D:\workspace-c#\c-sharp-design-patterns\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+D:\workspace-c#\c-sharp-design-patterns\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+D:\workspace-c#\c-sharp-design-patterns\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+D:\workspace-c#\c-sharp-design-patterns\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+D:\workspace-c#\c-sharp-design-patterns\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.AssemblyReference.cache
+D:\workspace-c#\c-sharp-design-patterns\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+D:\workspace-c#\c-sharp-design-patterns\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+D:\workspace-c#\c-sharp-design-patterns\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\workspace-c#\c-sharp-design-patterns\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+D:\workspace-c#\c-sharp-design-patterns\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+D:\workspace-c#\c-sharp-design-patterns\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache
