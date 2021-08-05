@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace-c#\\c-sharp-design-patterns\\Facade\\Facade\\Facade.csproj": {}
+    "D:\\workspace-c#\\c-sharp-design-patterns\\Composite\\Composite\\Composite.csproj": {}
   },
   "projects": {
-    "D:\\workspace-c#\\c-sharp-design-patterns\\Facade\\Facade\\Facade.csproj": {
+    "D:\\workspace-c#\\c-sharp-design-patterns\\Composite\\Composite\\Composite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace-c#\\c-sharp-design-patterns\\Facade\\Facade\\Facade.csproj",
-        "projectName": "Facade",
-        "projectPath": "D:\\workspace-c#\\c-sharp-design-patterns\\Facade\\Facade\\Facade.csproj",
+        "projectUniqueName": "D:\\workspace-c#\\c-sharp-design-patterns\\Composite\\Composite\\Composite.csproj",
+        "projectName": "Composite",
+        "projectPath": "D:\\workspace-c#\\c-sharp-design-patterns\\Composite\\Composite\\Composite.csproj",
         "packagesPath": "C:\\Users\\colom\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace-c#\\c-sharp-design-patterns\\Facade\\Facade\\obj\\",
+        "outputPath": "D:\\workspace-c#\\c-sharp-design-patterns\\Composite\\Composite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
