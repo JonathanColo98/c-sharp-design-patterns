@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "N53+Wdd7THwOr0XU6izSKXSRLHUoxrHSI0uSxED7Cc/MrFuJmEg6/jTB0/P9b60urkpg77nsjJpmigtQyptWVw==",
   "success": true,
   "projectFilePath": "C:\\workspaceC-Sharp\\c-sharp-design-patterns\\Composite\\Composite\\Composite.csproj",
+=======
+  "dgSpecHash": "pTWW8rZJ6BLcK1usbFFLsx3Oj6txoi48n5gESdARIPxCKccKGnFb14vKnfBwW6XaC6IXWwdJEfF2cyv/Q70Bgw==",
+  "success": true,
+  "projectFilePath": "D:\\workspace-c#\\c-sharp-design-patterns\\Composite\\Composite\\Composite.csproj",
+>>>>>>> f72fabb99e1c06b0edc575debeecbea9495ef421
   "expectedPackageFiles": [],
   "logs": []
 }

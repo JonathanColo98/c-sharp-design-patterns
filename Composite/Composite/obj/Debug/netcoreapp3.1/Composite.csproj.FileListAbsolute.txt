@@ -1,0 +1,13 @@
+D:\workspace-c#\c-sharp-design-patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+D:\workspace-c#\c-sharp-design-patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+D:\workspace-c#\c-sharp-design-patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+D:\workspace-c#\c-sharp-design-patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+D:\workspace-c#\c-sharp-design-patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+D:\workspace-c#\c-sharp-design-patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+D:\workspace-c#\c-sharp-design-patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.AssemblyReference.cache
+D:\workspace-c#\c-sharp-design-patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+D:\workspace-c#\c-sharp-design-patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+D:\workspace-c#\c-sharp-design-patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+D:\workspace-c#\c-sharp-design-patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+D:\workspace-c#\c-sharp-design-patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+D:\workspace-c#\c-sharp-design-patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
